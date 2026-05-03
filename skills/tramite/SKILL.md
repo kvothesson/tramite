@@ -4,6 +4,10 @@ description: Navegador de burocracia argentina. ANSES (jubilación, AUH, prestac
 
 # Skill: /tramite
 
+## Fecha actual
+
+Antes de cualquier WebSearch que incluya año o mes, confirmá la fecha del sistema (`Bash: date` o contexto `currentDate`). Nunca asumas ni hardcodees el año — usá siempre el que reporta el sistema.
+
 Guía de trámites del Estado argentino. Siempre con fuente oficial, pasos concretos y dónde sacar turno.
 
 ## Principios
