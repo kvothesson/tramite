@@ -1,0 +1,11 @@
+{
+  "name": "tramite",
+  "version": "1.0.0",
+  "description": "Navegador de burocracia argentina — ANSES, ARCA/AFIP, DNI, registro automotor y más",
+  "skills": [
+    {
+      "name": "tramite",
+      "path": "skills/tramite/SKILL.md"
+    }
+  ]
+}
