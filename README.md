@@ -1,6 +1,6 @@
 # tramite
 
-Plugin de Claude Code — navegador de burocracia argentina.
+Compatible con **Claude Code** y **OpenAI Codex** — navegador de burocracia argentina.
 
 ## Qué hace
 
@@ -10,6 +10,16 @@ Plugin de Claude Code — navegador de burocracia argentina.
 
 ```bash
 claude --plugin-dir /ruta/a/tramite
+```
+
+### OpenAI Codex
+
+No requiere instalación. Codex lee `AGENTS.md` automáticamente al abrirse en este directorio.
+
+```bash
+git clone https://github.com/kvothesson/tramite ~/tramite
+cd ~/tramite
+codex
 ```
 
 ## Comandos y ejemplos
