@@ -94,7 +94,7 @@ Categorías vigentes:
 Para recategorizarte:
   → arca.gob.ar > Mis Aplicaciones > Sistema Registral
 
-Claves: https://www.arca.gob.ar/clave-fiscal/
+Claves: https://www.arca.gob.ar/clavefiscal/
 ```
 
 **Facturación / comprobantes:**
@@ -112,7 +112,7 @@ Claves: https://www.arca.gob.ar/clave-fiscal/
 **Vencimientos:**
 
 WebSearch: `vencimientos ARCA [mes actual] [año actual]`
-WebFetch: `https://www.arca.gob.ar/calendario-de-vencimientos/`
+WebFetch: `https://www.arca.gob.ar/vencimientos/`
 
 Presentá los próximos 5 vencimientos relevantes con fecha, concepto y CUIT a los que aplica.
 
@@ -121,7 +121,7 @@ Presentá los próximos 5 vencimientos relevantes con fecha, concepto y CUIT a l
 ```
 🔑 Clave Fiscal ARCA
 
-  Alta / recupero: https://www.arca.gob.ar/clave-fiscal/
+  Alta / recupero: https://www.arca.gob.ar/clavefiscal/
   Niveles:
     1 → solo lectura básica
     2 → la mayoría de los trámites
@@ -137,11 +137,11 @@ DNI: renovación, primer DNI, turno Registro Civil / RENAPER.
 
 **Paso 1:**
 
-WebFetch: `https://tramites.renaper.gob.ar/dniq`
+WebFetch: `https://www.argentina.gob.ar/interior/renaper`
 
 **Paso 2 — turno:**
 
-Turno online RENAPER: `https://tramites.renaper.gob.ar/turnoWeb`
+Turno online RENAPER: `https://mi.argentina.gob.ar`
 También en algunos municipios: buscá `turno DNI [municipio/provincia]` si el usuario lo aclara.
 
 **Formato:**
@@ -166,7 +166,7 @@ Dónde tramitarlo:
   • Registro Civil del municipio
   • Algunos Correos Argentinos (modalidad express)
 
-📅 Turno: https://tramites.renaper.gob.ar/turnoWeb
+📅 Turno: https://mi.argentina.gob.ar
 🔗 Más info: https://www.argentina.gob.ar/interior/dni
 ```
 
@@ -195,7 +195,7 @@ Cómo pagar: [canales de pago de esa provincia]
 
 **Transferencia:**
 
-WebFetch: `https://www.argentina.gob.ar/justicia/registro-automotor/transferencia`
+WebFetch: `https://www.argentina.gob.ar/servicio/hacer-la-transferencia-de-dominio-de-un-auto-moto-o-maquinaria`
 
 ```
 🚗 Transferencia de Vehículo
@@ -215,7 +215,7 @@ Costo: aranceles del registro + ITV según valuación del vehículo
   (verificar en el Registro Seccional o en dnrpa.gov.ar)
 
 🔗 DNRPA: https://www.dnrpa.gov.ar
-🔗 CETA (ARCA): https://www.arca.gob.ar/transferencia-de-automotores/
+🔗 CETA (ARCA): https://www.arca.gob.ar/ (buscar "CETA")
 ```
 
 **VTV:**

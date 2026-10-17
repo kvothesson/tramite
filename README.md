@@ -108,7 +108,7 @@ Recategorización:
   Próximo período: enero–febrero cada año (o cuando superás/bajás de categoría)
   Dónde: arca.gob.ar > Mis Aplicaciones > Sistema Registral
 
-Clave Fiscal para operar: https://www.arca.gob.ar/clave-fiscal/
+Clave Fiscal para operar: https://www.arca.gob.ar/clavefiscal/
 
 Fuente: ARCA — afip.gob.ar/monotributo
 ```
@@ -195,8 +195,8 @@ Costo: aranceles del Registro + ITI según valuación fiscal
   (verificar en el Registro Seccional correspondiente)
 
 🔗 DNRPA: https://www.dnrpa.gov.ar
-🔗 Generar CETA: https://www.arca.gob.ar/transferencia-de-automotores/
-🔗 Guía completa: https://www.argentina.gob.ar/justicia/registro-automotor/transferencia
+🔗 Generar CETA: https://www.arca.gob.ar/ (buscar "CETA")
+🔗 Guía completa: https://www.argentina.gob.ar/servicio/hacer-la-transferencia-de-dominio-de-un-auto-moto-o-maquinaria
 
 Fuente: DNRPA / argentina.gob.ar
 ```
