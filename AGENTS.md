@@ -33,16 +33,18 @@ Tipos reconocidos: `jubilacion`, `auh`, `prestaciones`, `turno`, o cualquier otr
 
 **Paso 1 — buscá info actualizada:**
 
-Hacé WebSearch con: `[tipo] ANSES requisitos 2025 site:anses.gob.ar OR site:argentina.gob.ar`
+Hacé WebSearch con: `[tipo] ANSES requisitos [año actual] site:argentina.gob.ar OR site:anses.gob.ar`
 
 Si no hay resultados útiles, hacé WebFetch a la página directa:
-- Jubilación: `https://www.anses.gob.ar/jubilacion-ordinaria`
-- AUH: `https://www.anses.gob.ar/asignacion-universal-por-hijo`
-- Prestaciones en general: `https://www.anses.gob.ar/tramites`
+- Jubilación: `https://www.argentina.gob.ar/servicio/tramitar-la-jubilacion-como-trabajador-en-relacion-de-dependencia`
+- AUH: `https://www.argentina.gob.ar/servicio/tramitar-la-asignacion-universal-por-hijo-auh`
+- Prestaciones en general: `https://www.argentina.gob.ar/anses`
+
+No uses `anses.gob.ar` para WebFetch: tiene protección anti-bots y devuelve 403. Las fichas de argentina.gob.ar tienen la misma información oficial.
 
 **Paso 2 — turno:**
 
-Para cualquier trámite de ANSES que requiera turno: `https://turno.anses.gob.ar`
+Para cualquier trámite de ANSES que requiera turno: `https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses`
 
 **Formato de respuesta:**
 
@@ -66,7 +68,7 @@ Para cualquier trámite de ANSES que requiera turno: `https://turno.anses.gob.ar
   ...
 
 🔗 Más info: [URL oficial]
-📅 Turno online: https://turno.anses.gob.ar
+📅 Turno online: https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses
 ```
 
 Si la prestación implica un monto de dinero (AUH, jubilación mínima, etc.), buscalo en la web porque varía con las actualizaciones. Presentalo con la fecha de vigencia.

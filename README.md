@@ -48,8 +48,8 @@ Monto vigente (mayo 2026):
   2. Sección "Asignaciones" > "Asignación Universal por Hijo"
   3. Si es primera vez, pedí turno presencial
 
-🔗 Más info: https://www.anses.gob.ar/asignacion-universal-por-hijo
-📅 Turno online: https://turno.anses.gob.ar
+🔗 Más info: https://www.argentina.gob.ar/servicio/tramitar-la-asignacion-universal-por-hijo-auh
+📅 Turno online: https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses
 
 Fuente: ANSES — anses.gob.ar
 ```
@@ -76,11 +76,11 @@ Haber mínimo vigente (mayo 2026):
 
 ¿Cómo iniciar el trámite?
   1. Verificá tus aportes en Mi ANSES > "Mis datos registrados"
-  2. Pedí turno en turno.anses.gob.ar
+  2. Pedí turno en argentina.gob.ar/servicio/solicitar-turnos-en-anses
   3. Presentate con la documentación
 
-🔗 Más info: https://www.anses.gob.ar/jubilacion-ordinaria
-📅 Turno online: https://turno.anses.gob.ar
+🔗 Más info: https://www.argentina.gob.ar/servicio/tramitar-la-jubilacion-como-trabajador-en-relacion-de-dependencia
+📅 Turno online: https://www.argentina.gob.ar/servicio/solicitar-turnos-en-anses
 
 Fuente: ANSES — anses.gob.ar
 ```
