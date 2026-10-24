@@ -1,11 +1,12 @@
 {
   "name": "tramite",
-  "version": "1.2.3",
+  "version": "1.2.4",
   "description": "Navegador de burocracia argentina — ANSES, ARCA/AFIP, DNI, registro automotor y más",
-  "skills": [
-    {
-      "name": "tramite",
-      "path": "skills/tramite/SKILL.md"
-    }
-  ]
+  "author": {
+    "name": "Kvothesson",
+    "url": "https://github.com/kvothesson"
+  },
+  "homepage": "https://github.com/kvothesson/tramite",
+  "repository": "https://github.com/kvothesson/tramite",
+  "license": "MIT"
 }
